@@ -10,7 +10,7 @@ volta, povero! Devo ricordarmi di usare il coupon che scade a fine mese, per il
 resto dovrebbero bastarmi i contanti che ho in portafogli, sempre se non mi
 faccio prendere la mano con gli snack extra!
 
-- Scrivere la lista della spesa
+- **Scrivere la lista della spesa**
     - Prendere carta e penna
     - Apro il frigo
     - Controllo alimenti nel frigo
@@ -21,12 +21,12 @@ faccio prendere la mano con gli snack extra!
     - Chiudo il frigo
     - Aggiungo le crocchette del cane alla lista
 
-- Preparazione per uscire di casa
+- **Preparazione per uscire di casa**
     - Prendo portafoglio
     - Prendo il coupon
     - Prendo la lista
 
-- Andare al supermercato
+- **Andare al supermercato**
     - Esco di casa
     - Scelgo il supermercato
     - SE il supermercato è vicino
@@ -35,7 +35,7 @@ faccio prendere la mano con gli snack extra!
     - Prendo il carrello
     - Entro al supermercato
 
-- Fare la spesa
+- **Fare la spesa**
     - Visualizzare corsie
     - SE alimenti della lista non sono presenti
         - Vado avanti
@@ -45,7 +45,7 @@ faccio prendere la mano con gli snack extra!
     - ALTRIMENTI prendo prodotto correlato
     - Eseguo FINTANTO CHE non ho finito la lista
 
-- Rientro
+- **Rientro**
     - Vado alla cassa
     - Pago con i coupon 
     - Esco dal supermercato
